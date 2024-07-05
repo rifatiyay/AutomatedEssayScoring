@@ -26,7 +26,7 @@ The study concludes that SBERT with modified pooling improves AES accuracy margi
 
 **References**
 
-Bertolazzi, L. (2022). Automated Essay Scoring (AES) on the ASAP dataset using embeddings from different BERT based models. GitHub.
+Bertolazzi, L. (2022). Automated Essay Scoring (AES) on the ASAP dataset using embeddings from different BERT based models. GitHub. https://github.com/leobertolazzi/aes-bert/tree/main
 
 Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. http://arxiv.org/abs/1810.04805
 
