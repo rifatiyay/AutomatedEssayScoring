@@ -23,3 +23,11 @@ Model evaluation was based on training time and accuracy measured by Quadratic W
 **Conclusion**
 
 The study concludes that SBERT with modified pooling improves AES accuracy marginally. Findings are applicable to AES application development and provide insights for future research in NLP-based scoring systems.
+
+**References**
+
+Bertolazzi, L. (2022). Automated Essay Scoring (AES) on the ASAP dataset using embeddings from different BERT based models. GitHub.
+
+Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. http://arxiv.org/abs/1810.04805
+
+Reimers, N., & Gurevych, I. (2019, August 27). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. http://arxiv.org/abs/1908.10084
