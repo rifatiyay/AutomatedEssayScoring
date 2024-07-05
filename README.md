@@ -1,6 +1,7 @@
 # Comparative Analysis of the Performance of BERT and SBERT Models in Predicting Essay Scores in Automated Essay Scoring
 
-Abstract
+**Abstract**
+
 Automated Essay Scoring (AES) offers a solution to the time-consuming and subjective nature of manual essay evaluation. This study explores the effectiveness of Bidirectional Encoder Representations from Transformers (BERT) and Sentence-BERT (SBERT) in AES tasks. SBERT, designed for sentence-level semantics, addresses limitations of BERT in understanding overall sentence meaning. The study proposes SBERT with modified pooling techniques combining mean, max, and CLS pooling for enhanced performance.
 
 Data and Preprocessing
